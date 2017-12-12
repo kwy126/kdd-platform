@@ -1,0 +1,11 @@
+/Users/keweiyang/git/kdd-platform/src/main/java/com/circle/entity/Permission.java
+/Users/keweiyang/git/kdd-platform/src/main/java/com/circle/service/UserServiceImpl.java
+/Users/keweiyang/git/kdd-platform/src/main/java/com/circle/entity/User.java
+/Users/keweiyang/git/kdd-platform/src/main/java/com/circle/controller/UserController.java
+/Users/keweiyang/git/kdd-platform/src/main/java/com/circle/controller/IndexController.java
+/Users/keweiyang/git/kdd-platform/src/main/java/com/circle/dao/BaseDAO.java
+/Users/keweiyang/git/kdd-platform/src/main/java/com/circle/realm/MyRealm.java
+/Users/keweiyang/git/kdd-platform/src/main/java/com/circle/service/IUserService.java
+/Users/keweiyang/git/kdd-platform/src/main/java/com/circle/entity/Role.java
+/Users/keweiyang/git/kdd-platform/src/main/java/com/circle/controller/HelloController.java
+/Users/keweiyang/git/kdd-platform/src/main/java/com/circle/dao/UserDAO.java

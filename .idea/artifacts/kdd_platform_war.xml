@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kdd-platform:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="kdd-platform-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="kdd-platform:war exploded" />
+    </root>
+  </artifact>
+</component>
